@@ -11,8 +11,7 @@
 - 💞️Ask me about how to develop your career in Quantum Solutions Architecture, how to apply Quantum to your business, Quantum Optimization, Post-Quantum Cryptography and related discussions.
 - 📫 You can reach me on Linkedin at https://www.linkedin.com/in/wcamb/ or via Twitter https://twitter.com/wcambiuc. 
 
-You can find more about University of Sao Paulo here [![USP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Webysther_20170627_-_Bras%C3%A3o_USP.svg/300px-Webysther_20170627_-_Bras%C3%A3o_USP.svg.png)](https://www5.usp.br/)
-https://www5.usp.br/
+[![USP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Webysther_20170627_-_Bras%C3%A3o_USP.svg/300px-Webysther_20170627_-_Bras%C3%A3o_USP.svg.png)](https://www5.usp.br/) You can find more about University of Sao Paulo here https://www5.usp.br/
 
 
 <!---
