@@ -13,8 +13,6 @@
 
 [![USP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Webysther_20170627_-_Bras%C3%A3o_USP.svg/300px-Webysther_20170627_-_Bras%C3%A3o_USP.svg.png)](https://www5.usp.br/)
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=waldemircambiucci&theme=blue-green)]
-
 <!---
 waldemircambiucci/waldemircambiucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
