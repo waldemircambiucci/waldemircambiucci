@@ -6,9 +6,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waldemircambiucci/)
 
 
-- 👀 Today I’m currently working as Tech Manager at Microsoft in Brazil, supporting local discussions on enterprise about IT trends as IOT, AI, Machine Learning, Digital Transformation, and Quantum.
-- 🌱 Since 2020 I´m running researches in Quantum Computing, Quantum Optimization, Quantum Error Correction, and Distributed Quantum Computing, while running my phd studies.
-- 💞️Ask me about how to develop your career in Quantum Solutions Architecture, how to apply Quantum to your business, Quantum Optimization, Post-Quantum Cryptography and related discussions.
+- 🌱 PhD candidate at University of São Paulo | Distributed Quantum Computing | Azure Quantum | Qiskit | Quantum  Architect | Author | Speaker 
+- 👀 Today I’m working as Tech Sales Manager at Microsoft in Brazil, supporting local discussions on enterprise about IT trends as IOT, AI, Machine Learning, Digital Transformation, and Quantum Computing.
+- - 💞️Ask me about how to develop your career in Quantum Solutions Architecture, how to apply Quantum to your business, Quantum Optimization, Post-Quantum Cryptography and related discussions.
 - 📫 You can reach me on Linkedin at https://www.linkedin.com/in/wcamb/ or via Twitter https://twitter.com/wcambiuc. 
 
 [![USP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Webysther_20170627_-_Bras%C3%A3o_USP.svg/300px-Webysther_20170627_-_Bras%C3%A3o_USP.svg.png)](https://www5.usp.br/)
