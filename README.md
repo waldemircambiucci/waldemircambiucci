@@ -11,7 +11,7 @@
 - - 💞️Ask me about how to develop your career in Quantum Solutions Architecture, how to apply Quantum to your business, Quantum Optimization, Post-Quantum Cryptography and related discussions.
 - 📫 You can reach me on Linkedin at https://www.linkedin.com/in/wcamb/ or via Twitter https://twitter.com/wcambiuc. 
 
-[![USP](https://pt.wikipedia.org/wiki/Escola_Polit%C3%A9cnica_da_Universidade_de_S%C3%A3o_Paulo#/media/Ficheiro:Logotipo_da_POLI-USP.jpg)](https://www5.usp.br/)
+[![USP](https://upload.wikimedia.org/wikipedia/commons/4/4b/Logotipo_da_POLI-USP.jpg)](https://www5.usp.br/)
 
 <!---
 waldemircambiucci/waldemircambiucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
